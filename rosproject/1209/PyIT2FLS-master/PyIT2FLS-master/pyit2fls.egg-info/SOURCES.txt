@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyit2fls/__init__.py
+pyit2fls/pyit2fls.py
+pyit2fls.egg-info/PKG-INFO
+pyit2fls.egg-info/SOURCES.txt
+pyit2fls.egg-info/dependency_links.txt
+pyit2fls.egg-info/not-zip-safe
+pyit2fls.egg-info/requires.txt
+pyit2fls.egg-info/top_level.txt
